@@ -24,3 +24,6 @@ class Solution(object):
 
 s = Solution()
 print(s.convert('paypal',3))    
+# p  a
+# a p l
+# y
